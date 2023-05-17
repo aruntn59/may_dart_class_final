@@ -45,13 +45,14 @@ print('a~/b=${a~/b}');
 
   print('---------------------');
 
+  ///4. conditional operator  &&  ||  !
 
-/// conditional operatore
+  print("-----------------------");
+  String username = "admin";
+  String password = "abc123";
 
-  String username="admin";
-  String password="123admin";
-
-
-
+  print(  username == "abc" &&  password == 'abc123');  // false  && true
+  print(  username == "abc" ||  password == 'abc123');  // true
+  print(!(username == "abc" &&  password == 'abc123')); // !false = true  (opposite of actual result)
 
 }
