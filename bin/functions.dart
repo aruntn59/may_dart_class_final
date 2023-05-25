@@ -39,7 +39,7 @@ void main(){
     print("sum=$sum");
   }
   /*dafult function ll oru(return type) type ennonum kodukkathyum , parametier
-  ice void func1"()" ee brakets ll oru parameter kodukkathy varuna fuctions  */
+  ie void func1"()" ee brakets ll oru parameter kodukkathy varuna fuctions  */
 
 
 ///func2 defult fuction/function without parameters with retruntype
