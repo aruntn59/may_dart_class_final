@@ -31,8 +31,8 @@ void f1(int a, int b){
 //f2
 void f2(int? a,[int?b,int?c]){
 //f2
-/*here a is normal paramenter [b and c] igane thane declare cheyanium
-igane varunavaye are optonal which menas .they are
+/*here a is normal paramenter [b and c] igane thane declare cheyathirikuna
+parameters are optonal which menas .they are
 not nessesery to enter . if the values  are give  it will be orderly enter */
 print('a=$a');
 print('b=$b');
