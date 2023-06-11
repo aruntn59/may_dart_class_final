@@ -5,7 +5,7 @@ void main(){
   f1(1,2);// normal parameterised funtion call
 
   f2(100,8,2);/*optional positional parameterised function calling time
-                 values will be orderly enter*/
+               values will be orderly enter*/
 
   f3(100,z:2);/*optional named parameterised function calling time ll nammalk
                  optional name vechu kond  optional paramenters ll avishyam ulla
@@ -13,7 +13,7 @@ void main(){
                    z:2 (a:1 ee formatil kodukkanum) kodukkan kazhinju*/
 
   f4(name: "arun", ph1: 0987654321, email: "arun@gamil.com");
-  f4(name: "anu", ph1: 0987654321, email: "anu@gamil.com",ph2:1234567890);
+   f4(name: "anu", ph1: 0987654321, email: "anu@gamil.com",ph2:1234567890);
   /*igane name ="arun",ph1=0987654321 iaganeme name vechond requred ne must kannikyan use cheyunu*/
   f5("appu", 1234567890, "appu@gamil.com");
   f6(name: "arun", ph1: 1234567890, course: "androind");

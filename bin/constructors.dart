@@ -20,6 +20,7 @@ class A{
   A.one(){
     print('default named constructor');
   }
+  ///parameterised named constructor
   A.abc(String name){
     print('parameterised named constructor $name');
   }

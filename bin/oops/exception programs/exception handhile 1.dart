@@ -1,0 +1,13 @@
+void maths(){
+  var div=100~/10; // till division ~/ used to round the value without decinal value
+  print(maths);
+
+}
+void main(){
+  print("hi");
+  try{
+  maths();}
+  on
+  UnsupportedError{print("integer div zero is not possible ");}
+  print("thanks");
+}

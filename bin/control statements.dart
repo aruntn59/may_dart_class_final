@@ -88,7 +88,7 @@ void main(){
   ///switch case
 
 
-  print ("enter the color you want");
+  print ("enter the color you want")
   String shirtcolor =stdin.readLineSync()!;
   switch(shirtcolor){
     case 'black':
